@@ -1,14 +1,14 @@
-#include "main.h"
+#include "main.hi"
 
 /**
- * print_tringle - prints a tringle
+ * print_triangle - prints a triangle
  *
- * @size: size of the tringle
+ * @size: size of the triangle
  *
  * Return: Always 0 (success)
 */
 
-int print_tringle(int size)
+void print_triangle(int size)
 {
 	int hght, base;
 
