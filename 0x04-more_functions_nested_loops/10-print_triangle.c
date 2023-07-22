@@ -8,7 +8,7 @@
  * Return: Always 0 (success)
 */
 
-void print_tringle(int size)
+int print_tringle(int size)
 {
 	int hght, base;
 
